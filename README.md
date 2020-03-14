@@ -1,4 +1,3 @@
 # Picbed-PicGo
 为博客创建的个人图床仓库。
-这里暂时什么都没有。
-以后如果觉得有需要会完善此仓库。
+个站：summerlemon1.github.io
